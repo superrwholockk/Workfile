@@ -1,0 +1,10 @@
+#textArea{
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.red{
+    color: red;
+}
